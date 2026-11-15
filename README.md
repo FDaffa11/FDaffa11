@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there, I'm Daffa! 👋
 
-<!--
-**FDaffa11/FDaffa11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Love **animation** and **code**. 🎬💻
 
-Here are some ideas to get you started:
+- 🚀 Currently "learning": **C++** and **C#** *(still figuring out when to actually start :p)*
+- 🎨 Creative side: Making 2D animations & bringing random ideas to life
+- 🛠️ Building: Small experimental projects whenever motivation strikes
+- 👀 Feel free to look around my repos!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### Tech & Interests
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![2D Animation](https://img.shields.io/badge/2D_Animation-FF5722?style=flat-square)
